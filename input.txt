@@ -1,0 +1,6 @@
+FirstName,DOB,Address,Phone,Email,Gender,Dept,Salary,JoiningDate,Company
+ajith kumar,01.05.1979,"17,periyar street ,Bangalore",1234567890,ak@gmail.com,Male,"Media-Actor",50000000.00,15.04.2005,"Tamil Cinemas,Chennai"
+nayanthara,18.11.1984,"22,MG Road, Kochi",9876543210,nayan@gmail.com,Female,"Media-Actress",45000000.00,10.06.2003,"South Films,Chennai"
+sivakarthikeyan,17.02.1985,"5,Anna Nagar, Madurai",9123456780,sk@gmail.com,Male,"Media-Actor",30000000.00,20.08.2012,"Kollywood Studios,Chennai"
+trisha krishnan,04.05.1983,"9,Beach Road, Chennai",9988776655,trisha@gmail.com,Female,"Media-Actress",35000000.00,25.03.2001,"Star Films,Chennai"
+vikram,17.04.1966,"12,Race Course Road, Coimbatore",9090909090,vikram@gmail.com,Male,"Media-Actor",40000000.00,05.07.1990,"Tamil Cinemas,Chennai"
